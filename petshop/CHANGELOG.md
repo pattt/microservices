@@ -1,0 +1,1 @@
+  - added protoFiles generation (https://github.com/google/protobuf-gradle-plugin)
