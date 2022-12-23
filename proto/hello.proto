@@ -1,4 +1,6 @@
 syntax = "proto3";
+option java_multiple_files = true;
+package com.petshop.grpc;
 
 service HelloWorldService {
   rpc hello(HelloRequest) returns (HelloResponse) {}
